@@ -44,3 +44,7 @@ nav a{
     font-size: 2rem;
     text-align: center;
 }
+
+p {
+    margin: 0.5rem;
+}
